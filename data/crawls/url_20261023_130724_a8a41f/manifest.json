@@ -1,0 +1,1054 @@
+{
+  "job_id": "url_20261023_130724_a8a41f",
+  "mode": "url",
+  "target": "https://www.areca.in/",
+  "status": "completed",
+  "created_at": "2026-10-23T13:07:24.346763+00:00",
+  "completed_at": "2026-10-23T13:07:52.574231+00:00",
+  "config": {
+    "url": "https://www.areca.in/",
+    "include_subdomains": false,
+    "scope_mode": "path_strict",
+    "max_depth": 4,
+    "max_pages": 27,
+    "max_concurrency": 5,
+    "include_patterns": [],
+    "exclude_patterns": [],
+    "request_delay_ms": 300,
+    "timeout_seconds": 15.0
+  },
+  "summary": {
+    "total_pages_discovered": 31,
+    "total_pages_scraped": 27,
+    "total_pages_failed": 0,
+    "total_markdown_files": 27
+  },
+  "hierarchy": {
+    "roots": [
+      {
+        "url": "https://www.areca.in/",
+        "title": "Areca Embedded Systems Private Limited",
+        "path": "pages/index.md",
+        "depth": 0,
+        "status": "completed",
+        "children": [
+          {
+            "url": "https://www.areca.in/ELD.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/ELD.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/Kavach.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/Kavach.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/LTR.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/LTR.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/PAPIS-CG18001.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/PAPIS-CG18001.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/about.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/about.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/cable-tester.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/cable-tester.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/careers.php",
+            "title": "https://www.areca.in/careers.php",
+            "path": null,
+            "depth": 1,
+            "status": "queued",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/contact.php",
+            "title": "https://www.areca.in/contact.php",
+            "path": null,
+            "depth": 1,
+            "status": "queued",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/customer-service.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/customer-service.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/emergency.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/emergency.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/engineering-r-d.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/engineering-r-d.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/gps.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/gps.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/his.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/his.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/index.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/index--3bc527.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/ipis-108.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/ipis-108.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/lc-lau.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/lc-lau.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/our-journey.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/our-journey.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/our-profile.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/our-profile.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/pis-emus.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/pis-emus.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/pis.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/pis.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/power-converter.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/power-converter.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/product-development-service.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/product-development-service.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/product.php",
+            "title": "https://www.areca.in/product.php",
+            "path": null,
+            "depth": 1,
+            "status": "queued",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/relays.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/relays.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/seat-back.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/seat-back.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/smart-coach.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/smart-coach.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/support.php",
+            "title": "https://www.areca.in/support.php",
+            "path": null,
+            "depth": 1,
+            "status": "queued",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/tssus.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/tssus.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/um.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/um.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          },
+          {
+            "url": "https://www.areca.in/wifi.php",
+            "title": "Areca Embedded Systems Private Limited",
+            "path": "pages/wifi.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": "3542d03c-18ee-4224-b4ce-a3c6c52d34ed",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/",
+      "canonical_url": "https://www.areca.in/",
+      "parent_url": null,
+      "depth": 0,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/index.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "acd3ae919a2541b8fe2ee273c75261d39b8fcd62bc7f9d19b460704281223dcc",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:26.465472+00:00",
+      "discovered_links_count": 30
+    },
+    {
+      "id": "aa9f105f-96b7-408a-9e6c-55edc04b44fa",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/ELD.php",
+      "canonical_url": "https://www.areca.in/ELD.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/ELD.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "64252a8c8861f26d26f43901836f2bccedd663707fb7bf6015076441a9d646ed",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:34.751670+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "78d82203-fc51-4404-83d8-a4f1c5dc0b86",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/Kavach.php",
+      "canonical_url": "https://www.areca.in/Kavach.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/Kavach.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "adb3978c30371b1b32076ff76703cc6d0c03716f0f5c3489ac72ffe72903a1df",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:33.002934+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "4cc848e4-de07-4f1d-ba43-79b643a41790",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/LTR.php",
+      "canonical_url": "https://www.areca.in/LTR.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/LTR.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "a42cf15aeb7bc0ca67744f4f746c6a1229f841fc483e283a73ef0b3d314a005d",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:33.849368+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "cd92e339-c17f-4466-921d-2a51cdaf6f2b",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/PAPIS-CG18001.php",
+      "canonical_url": "https://www.areca.in/PAPIS-CG18001.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/PAPIS-CG18001.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "78dc05207ae2f011e170f96ee878a167deabd4fa0bbb92c5f0d64cae626bdf55",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:42.227391+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "ff960cdd-26c0-45db-83cc-6ff8e14217fd",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/about.php",
+      "canonical_url": "https://www.areca.in/about.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/about.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "2cb9f478a11c6f94ffcfabac10cd0daa41cdaea2e3040cd121297986891c7128",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:28.831151+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "2e5732f5-671e-4091-8fd9-978818d17179",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/cable-tester.php",
+      "canonical_url": "https://www.areca.in/cable-tester.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/cable-tester.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "257d1e89328e4aaa02cb6fc9e9f0e5e86714aeceb16e60b7d2c2ea01962737fd",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:46.003073+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "8c835940-f3bb-4558-aef9-16e1738f185f",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/careers.php",
+      "canonical_url": null,
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "queued",
+      "http_status": null,
+      "file_path": null,
+      "title": null,
+      "content_hash": null,
+      "error_message": null,
+      "scraped_at": null,
+      "discovered_links_count": 0
+    },
+    {
+      "id": "0da2341a-da32-4662-bcfb-68c692c6439b",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/contact.php",
+      "canonical_url": null,
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "queued",
+      "http_status": null,
+      "file_path": null,
+      "title": null,
+      "content_hash": null,
+      "error_message": null,
+      "scraped_at": null,
+      "discovered_links_count": 0
+    },
+    {
+      "id": "22477bc6-8506-4e8e-9f8c-9d19abf98e18",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/customer-service.php",
+      "canonical_url": "https://www.areca.in/customer-service.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/customer-service.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "4814573409967b9ee1acc8b28d1172ac9747b907ff291541dd446134e1c111b8",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:51.273523+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "1abb8e6d-2d88-42e4-b931-674a287ad9a2",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/emergency.php",
+      "canonical_url": "https://www.areca.in/emergency.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/emergency.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "a7603fcb3981351591156f37751fea2595d606fa075df6a263d7494f5cbac225",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:44.208683+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "57f009b7-ac8c-4122-91b2-3e47ea881b89",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/engineering-r-d.php",
+      "canonical_url": "https://www.areca.in/engineering-r-d.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/engineering-r-d.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "03bb7923d0eedeb2f0b26ac30ed8b601c242dce0b9ece83733429faf3bff66e4",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:31.186256+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "88d647c2-695a-4fa4-b478-e3075f452491",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/gps.php",
+      "canonical_url": "https://www.areca.in/gps.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/gps.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "e61d1d3257b501ea87be753b5db0420e4cd5e399b77311e2a1c4940b62cf42f6",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:45.075597+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "b643deb6-d09d-4413-8c30-d8ae6af710fe",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/his.php",
+      "canonical_url": "https://www.areca.in/his.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/his.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "2ff95bcd445e256b56263fbe14b2d13ca463ede49473a226c1a91bebf62dfcce",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:46.865295+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "6c469c98-cf3e-43c7-8867-bcf9e0a40225",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/index.php",
+      "canonical_url": "https://www.areca.in/index.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/index--3bc527.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "acd3ae919a2541b8fe2ee273c75261d39b8fcd62bc7f9d19b460704281223dcc",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:27.950925+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "9e6c3702-a3b2-4f5f-bff9-9f4bfbe3a224",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/ipis-108.php",
+      "canonical_url": "https://www.areca.in/ipis-108.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/ipis-108.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "7f0744d5c6f0f418754fc7c138c86da28c5145bd02373c23bc02f1a2c2a5f0ed",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:41.380905+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "4f960f62-b7eb-45d3-9f86-9b21c40739bf",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/lc-lau.php",
+      "canonical_url": "https://www.areca.in/lc-lau.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/lc-lau.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "dfe7ea01ca9a2c2a4916eda0ec36f67a59ee0279d69b0cc1d57bf321568a37af",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:47.820300+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "a797fa01-4da9-45a0-843c-693946a590b4",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/our-journey.php",
+      "canonical_url": "https://www.areca.in/our-journey.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/our-journey.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "1638edf52be96b479e4fa537779c94a0742e744ec528cbf9b4f8adf691d2645a",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:30.321854+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "453e884f-8f17-4071-8c18-4e061fffe69a",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/our-profile.php",
+      "canonical_url": "https://www.areca.in/our-profile.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/our-profile.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "d60b176fa7b533c5d2c0445a8c5b5435b38070ee0a0fb132393ba0744b268d8a",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:32.104261+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "f27ae110-fd78-4093-9fca-911b40fbc4a1",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/pis-emus.php",
+      "canonical_url": "https://www.areca.in/pis-emus.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/pis-emus.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "16e4ff2578eae8631ab946797a921cd39953293e14717d43aa6f5b8b4d1f6b01",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:36.761436+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "b72fab20-e915-4265-ab72-2696c01c42e2",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/pis.php",
+      "canonical_url": "https://www.areca.in/pis.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/pis.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "ea85828491b552d5cb927bd0e01dccd4650d4e198869cf9c8987063cea6eabe3",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:35.815649+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "a9ed23c6-1832-43e3-b82f-c5041eb3af9c",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/power-converter.php",
+      "canonical_url": "https://www.areca.in/power-converter.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/power-converter.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "73e7662e2eb7337608c8012b8b48b6c8f91af4447cb1bca825de874862b97992",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:37.607297+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "a82c14a2-1253-491c-a238-c1513afd5d89",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/product-development-service.php",
+      "canonical_url": "https://www.areca.in/product-development-service.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/product-development-service.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "b0c7541d799730240c2dfeb82d9e3e31ea1a4a795644d72fc0b3b3ace3f73e57",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:52.197673+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "817838df-218d-453a-9630-b0be9e0318f6",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/product.php",
+      "canonical_url": null,
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "queued",
+      "http_status": null,
+      "file_path": null,
+      "title": null,
+      "content_hash": null,
+      "error_message": null,
+      "scraped_at": null,
+      "discovered_links_count": 0
+    },
+    {
+      "id": "d9d64658-7caf-4887-afc5-da72811306dc",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/relays.php",
+      "canonical_url": "https://www.areca.in/relays.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/relays.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "b58cf0be135ceea8ffc291f1cb7cff7ed2c9960189ad468ea0eede64af907b99",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:43.204726+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "a02b874e-7d9b-450a-8572-b2f129498f5c",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/seat-back.php",
+      "canonical_url": "https://www.areca.in/seat-back.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/seat-back.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "80d485941d249d5cf1bbfc2062db883b02f00d5980c4c4930b05019ceb4c2f82",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:38.496212+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "4a7c56cb-aad3-4eb9-a768-22a641d50d68",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/smart-coach.php",
+      "canonical_url": "https://www.areca.in/smart-coach.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/smart-coach.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "cbced32be69e12105b4edcd3cc054c8fa397245dc17949d2bd71c581bffb2f03",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:40.398067+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "50419844-7cf2-46d6-8f8f-1df0b8896419",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/support.php",
+      "canonical_url": null,
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "queued",
+      "http_status": null,
+      "file_path": null,
+      "title": null,
+      "content_hash": null,
+      "error_message": null,
+      "scraped_at": null,
+      "discovered_links_count": 0
+    },
+    {
+      "id": "45d7e593-4364-47db-9d28-b2d8e3561696",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/tssus.php",
+      "canonical_url": "https://www.areca.in/tssus.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/tssus.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "85764bfe3e811289a386f97696cfda39ebe882d26b2a14ad76650d0d71dbbd58",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:48.715093+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "f5da720b-55d5-4613-ae7f-96e03f514a23",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/um.php",
+      "canonical_url": "https://www.areca.in/um.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/um.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "7f08d644cc93a3d6a1f4c2245a208451ad340492fc04f868153310703cdf00ac",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:49.546951+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "3dedb7ae-7e9d-4340-932c-5c25d4c3f998",
+      "job_id": "url_20261023_130724_a8a41f",
+      "url": "https://www.areca.in/wifi.php",
+      "canonical_url": "https://www.areca.in/wifi.php",
+      "parent_url": "https://www.areca.in/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/wifi.md",
+      "title": "Areca Embedded Systems Private Limited",
+      "content_hash": "1bba92633bec67309b44cf02843567ef45d0d800a589c3cabe0e6bed3e1b55b4",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:07:39.392388+00:00",
+      "discovered_links_count": 0
+    }
+  ],
+  "logs": [
+    {
+      "timestamp": "2026-10-23T13:07:24.362068+00:00",
+      "level": "INFO",
+      "message": "Starting URL crawl for 'https://www.areca.in/' (max_depth=4, max_pages=27)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:24.431078+00:00",
+      "level": "INFO",
+      "message": "Scraping [0]: https://www.areca.in/"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:26.521882+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/index.md (30 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:27.232080+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/index.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:28.007005+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/index--3bc527.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:28.368105+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/about.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:28.851080+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/about.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:29.204379+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/our-journey.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:30.380566+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/our-journey.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:30.741055+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/engineering-r-d.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:31.249122+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/engineering-r-d.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:31.580262+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/our-profile.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:32.160744+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/our-profile.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:32.532789+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/Kavach.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:33.030015+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/Kavach.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:33.378625+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/LTR.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:33.913287+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/LTR.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:34.247476+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/ELD.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:34.811767+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/ELD.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:35.180458+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/pis.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:35.870557+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/pis.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:36.227733+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/pis-emus.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:36.821302+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/pis-emus.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:37.180311+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/power-converter.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:37.665024+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/power-converter.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:38.027617+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/seat-back.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:38.555503+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/seat-back.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:38.912993+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/wifi.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:39.448608+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/wifi.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:39.764877+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/smart-coach.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:40.445187+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/smart-coach.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:40.790437+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/ipis-108.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:41.436402+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/ipis-108.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:41.806629+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/PAPIS-CG18001.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:42.244483+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/PAPIS-CG18001.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:42.590528+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/relays.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:43.221385+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/relays.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:43.578948+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/emergency.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:44.261377+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/emergency.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:44.603859+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/gps.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:45.101343+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/gps.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:45.457788+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/cable-tester.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:46.072741+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/cable-tester.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:46.440086+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/his.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:46.918337+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/his.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:47.257126+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/lc-lau.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:47.842304+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/lc-lau.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:48.204290+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/tssus.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:48.774434+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/tssus.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:49.132332+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/um.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:49.603427+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/um.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:49.971328+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/customer-service.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:51.333082+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/customer-service.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:51.694013+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: https://www.areca.in/product-development-service.php"
+    },
+    {
+      "timestamp": "2026-10-23T13:07:52.250773+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/product-development-service.md (0 links discovered)"
+    }
+  ]
+}

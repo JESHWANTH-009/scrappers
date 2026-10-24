@@ -1,0 +1,55 @@
+{
+  "job_id": "test_job_004",
+  "mode": "url",
+  "target": "https://example.com/",
+  "status": "completed",
+  "created_at": "2026-10-23T12:00:00Z",
+  "completed_at": "2026-10-23T12:01:00Z",
+  "config": {},
+  "summary": {
+    "total_pages_discovered": 2,
+    "total_pages_scraped": 2,
+    "total_pages_failed": 0,
+    "total_markdown_files": 2
+  },
+  "hierarchy": {
+    "roots": [
+      {
+        "url": "https://example.com/",
+        "title": "Home",
+        "path": "pages/index.md",
+        "depth": 0,
+        "status": "completed",
+        "children": [
+          {
+            "url": "https://example.com/about",
+            "title": "About",
+            "path": "pages/about.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "url": "https://example.com/",
+      "title": "Home",
+      "file_path": "pages/index.md",
+      "status": "completed",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://example.com/about",
+      "title": "About",
+      "file_path": "pages/about.md",
+      "status": "completed",
+      "depth": 1,
+      "parent_url": "https://example.com/"
+    }
+  ],
+  "logs": []
+}

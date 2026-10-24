@@ -1,0 +1,177 @@
+{
+  "job_id": "test_local_crawl_001",
+  "mode": "url",
+  "target": "http://testsite.local/docs/",
+  "status": "completed",
+  "created_at": "2026-10-23T12:27:09.394745+00:00",
+  "completed_at": "2026-10-23T12:27:09.547254+00:00",
+  "config": {
+    "url": "http://testsite.local/docs/",
+    "include_subdomains": false,
+    "scope_mode": "path_strict",
+    "max_depth": 3,
+    "max_pages": 10,
+    "max_concurrency": 1,
+    "include_patterns": [],
+    "exclude_patterns": [],
+    "request_delay_ms": 0,
+    "timeout_seconds": 15.0
+  },
+  "summary": {
+    "total_pages_discovered": 4,
+    "total_pages_scraped": 4,
+    "total_pages_failed": 0,
+    "total_markdown_files": 4
+  },
+  "hierarchy": {
+    "roots": [
+      {
+        "url": "http://testsite.local/docs/",
+        "title": "Documentation Root",
+        "path": "pages/docs/index.md",
+        "depth": 0,
+        "status": "completed",
+        "children": [
+          {
+            "url": "http://testsite.local/docs/install",
+            "title": "Install Guide",
+            "path": "pages/docs/install.md",
+            "depth": 1,
+            "status": "completed",
+            "children": [
+              {
+                "url": "http://testsite.local/docs/install/linux",
+                "title": "Linux Guide",
+                "path": "pages/docs/install/linux.md",
+                "depth": 2,
+                "status": "completed",
+                "children": []
+              }
+            ]
+          },
+          {
+            "url": "http://testsite.local/docs/redirect",
+            "title": "Linux Guide",
+            "path": "pages/docs/install/linux.md",
+            "depth": 1,
+            "status": "completed",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": "09f70e33-891d-4fdd-bc20-906f7ad71137",
+      "job_id": "test_local_crawl_001",
+      "url": "http://testsite.local/docs/",
+      "canonical_url": "http://testsite.local/docs/",
+      "parent_url": null,
+      "depth": 0,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/docs/index.md",
+      "title": "Documentation Root",
+      "content_hash": "d8093355124bdbc00e89b4cef06f7afe9776f77980acbe62bd991fd2d53b0608",
+      "error_message": null,
+      "scraped_at": "2026-10-23T12:27:09.419200+00:00",
+      "discovered_links_count": 2
+    },
+    {
+      "id": "eb549727-bf7a-4da6-9a6c-f86f4e98ea58",
+      "job_id": "test_local_crawl_001",
+      "url": "http://testsite.local/docs/install",
+      "canonical_url": "http://testsite.local/docs/install",
+      "parent_url": "http://testsite.local/docs/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/docs/install.md",
+      "title": "Install Guide",
+      "content_hash": "807d11a7d30d7f2e52d20e6140e85f42a351d1f4f367c706aa0dff054cd164da",
+      "error_message": null,
+      "scraped_at": "2026-10-23T12:27:09.482574+00:00",
+      "discovered_links_count": 1
+    },
+    {
+      "id": "4131e769-9b1a-46aa-afb8-86e61357fb00",
+      "job_id": "test_local_crawl_001",
+      "url": "http://testsite.local/docs/redirect",
+      "canonical_url": "http://testsite.local/docs/install/linux",
+      "parent_url": "http://testsite.local/docs/",
+      "depth": 1,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/docs/install/linux.md",
+      "title": "Linux Guide",
+      "content_hash": "7f54f85bf9c834c9230aa552299f128c3e5dd1721af2252c56919777f2cd5b7b",
+      "error_message": null,
+      "scraped_at": "2026-10-23T12:27:09.506714+00:00",
+      "discovered_links_count": 0
+    },
+    {
+      "id": "c421a9ee-6266-4f16-861a-ba003752d8ab",
+      "job_id": "test_local_crawl_001",
+      "url": "http://testsite.local/docs/install/linux",
+      "canonical_url": "http://testsite.local/docs/install/linux",
+      "parent_url": "http://testsite.local/docs/install",
+      "depth": 2,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/docs/install/linux.md",
+      "title": "Linux Guide",
+      "content_hash": "7f54f85bf9c834c9230aa552299f128c3e5dd1721af2252c56919777f2cd5b7b",
+      "error_message": null,
+      "scraped_at": "2026-10-23T12:27:09.530653+00:00",
+      "discovered_links_count": 0
+    }
+  ],
+  "logs": [
+    {
+      "timestamp": "2026-10-23T12:27:09.396747+00:00",
+      "level": "INFO",
+      "message": "Starting URL crawl for 'http://testsite.local/docs/' (max_depth=3, max_pages=10)"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.406242+00:00",
+      "level": "INFO",
+      "message": "Scraping [0]: http://testsite.local/docs/"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.419200+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/docs/index.md (2 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.440760+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: http://testsite.local/docs/install"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.489714+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/docs/install.md (1 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.499325+00:00",
+      "level": "INFO",
+      "message": "Scraping [1]: http://testsite.local/docs/redirect"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.514997+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/docs/install/linux.md (0 links discovered)"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.515997+00:00",
+      "level": "INFO",
+      "message": "Scraping [2]: http://testsite.local/docs/install/linux"
+    },
+    {
+      "timestamp": "2026-10-23T12:27:09.532292+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/docs/install/linux.md (0 links discovered)"
+    }
+  ]
+}

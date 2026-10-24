@@ -1,0 +1,110 @@
+{
+  "job_id": "wiki_20261023_130945_b076d6",
+  "mode": "wikipedia",
+  "target": "Retrieval-augmented generation",
+  "status": "completed",
+  "created_at": "2026-10-23T13:09:45.863704+00:00",
+  "completed_at": "2026-10-23T13:09:51.563165+00:00",
+  "config": {
+    "keyword": "Retrieval-augmented generation",
+    "language": "en",
+    "max_articles": 2,
+    "max_depth": 0,
+    "include_sections": true,
+    "include_references": false,
+    "follow_links_strategy": "seed_and_direct",
+    "relevance_filter": true
+  },
+  "summary": {
+    "total_pages_discovered": 2,
+    "total_pages_scraped": 2,
+    "total_pages_failed": 0,
+    "total_markdown_files": 2
+  },
+  "hierarchy": {
+    "roots": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+        "title": "Retrieval-augmented generation",
+        "path": "pages/wikipedia/en/retrieval-augmented_generation--75229858.md",
+        "depth": 0,
+        "status": "completed",
+        "children": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vector_database",
+        "title": "Vector database",
+        "path": "pages/wikipedia/en/vector_database--74020014.md",
+        "depth": 0,
+        "status": "completed",
+        "children": []
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": "384a68cc-b728-44a8-9e58-cc2137507abe",
+      "job_id": "wiki_20261023_130945_b076d6",
+      "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+      "canonical_url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+      "parent_url": null,
+      "depth": 0,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/wikipedia/en/retrieval-augmented_generation--75229858.md",
+      "title": "Retrieval-augmented generation",
+      "content_hash": "3b674bda6cdf4a4f3f717325c46eee45a5e2c1267c5862a327502655613127e4",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:09:48.615546+00:00",
+      "discovered_links_count": 401
+    },
+    {
+      "id": "de5d4aa8-754d-43f4-9494-e83e11f86ed4",
+      "job_id": "wiki_20261023_130945_b076d6",
+      "url": "https://en.wikipedia.org/wiki/Vector_database",
+      "canonical_url": "https://en.wikipedia.org/wiki/Vector_database",
+      "parent_url": null,
+      "depth": 0,
+      "status": "completed",
+      "http_status": 200,
+      "file_path": "pages/wikipedia/en/vector_database--74020014.md",
+      "title": "Vector database",
+      "content_hash": "7c52e77311994a0af2878604134b1e6466688f7ae460bf6e1745e74100a41e2f",
+      "error_message": null,
+      "scraped_at": "2026-10-23T13:09:51.179477+00:00",
+      "discovered_links_count": 203
+    }
+  ],
+  "logs": [
+    {
+      "timestamp": "2026-10-23T13:09:45.870953+00:00",
+      "level": "INFO",
+      "message": "Starting Wikipedia keyword crawl for 'Retrieval-augmented generation' (lang=en, max_articles=2)"
+    },
+    {
+      "timestamp": "2026-10-23T13:09:47.316608+00:00",
+      "level": "INFO",
+      "message": "Found 2 seed articles for 'Retrieval-augmented generation'."
+    },
+    {
+      "timestamp": "2026-10-23T13:09:47.354241+00:00",
+      "level": "INFO",
+      "message": "Fetching Wikipedia article [0]: 'Retrieval-augmented generation'"
+    },
+    {
+      "timestamp": "2026-10-23T13:09:48.640411+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/wikipedia/en/retrieval-augmented_generation--75229858.md (401 linked articles)"
+    },
+    {
+      "timestamp": "2026-10-23T13:09:48.971849+00:00",
+      "level": "INFO",
+      "message": "Fetching Wikipedia article [0]: 'Vector database'"
+    },
+    {
+      "timestamp": "2026-10-23T13:09:51.222519+00:00",
+      "level": "SUCCESS",
+      "message": "Saved: pages/wikipedia/en/vector_database--74020014.md (203 linked articles)"
+    }
+  ]
+}
